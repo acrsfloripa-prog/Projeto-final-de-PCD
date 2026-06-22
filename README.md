@@ -49,6 +49,9 @@ Estudante de bacharelado em Ciência e Tecnologia pela Ilum Escola de Ciência.
 ## Referências
 
 ALMEIDA, James Moraes de. Processamento de strings. Campinas: Ilum Escola de Ciência (CNPEM), 2026b. Notebook Jupyter (material didático não publicado).
+
 CASSAR, Daniel R. Aula de git. Campinas: Ilum Escola de Ciência (CNPEM), 2026. Notebook Jupyter (material didático não publicado).
+
 CASSAR, Daniel R. Módulo random. Campinas: Ilum Escola de Ciência (CNPEM), 2026. Notebook Jupyter (material didático não publicado).
+
 PYTHON TUTORIAL. Tkinter Tutorial. Disponível em: <https://www.pythontutorial.net/tkinter/>. Acesso em: 18 jun. 2026.
